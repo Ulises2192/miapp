@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Miapp</string>
+    <string name="saludar">Saludar :)</string>
+    <string name="check_desarrollador">Soy desarrollador</string>
+    <string name="msj_hola">Hola</string>
+    <string name="msj_desarrollador">Se que eres un desarrollador</string>
+    <string name="msj_ingresa_nombre">Ingresa tu nombre para saludarte!!</string>
+</resources>
